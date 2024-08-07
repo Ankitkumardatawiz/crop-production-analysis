@@ -16,7 +16,8 @@ Using Tableau Desktop, I created an interactive and insightful story to illustra
 - **Excel**: Employed for initial data cleaning, including removing null values and ensuring data integrity.
 
 ## Usage
-Data : The data file contains the original dataset.
+Data :  The data file contains the original dataset.
+
 Visualization: Open the Crop_Production_Analysis.twbx file in Tableau Desktop to explore the interactive dashboard.
 
 ## Contributing
